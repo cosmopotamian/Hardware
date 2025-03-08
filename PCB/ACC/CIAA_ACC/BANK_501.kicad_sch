@@ -5643,18 +5643,6 @@
 					)
 				)
 				(arc
-					(start 1.27 11.43)
-					(mid 1.6434 12.3188)
-					(end 2.54 12.7)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
 					(start 2.54 -10.16)
 					(mid 1.6254 -9.7971)
 					(end 1.27 -8.89)
@@ -5682,6 +5670,18 @@
 					(pts
 						(xy 2.54 -10.16) (xy 8.89 -10.16)
 					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.27 11.43)
+					(mid 1.6434 12.3188)
+					(end 2.54 12.7)
 					(stroke
 						(width 0)
 						(type solid)

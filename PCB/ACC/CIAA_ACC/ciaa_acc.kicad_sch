@@ -3219,7 +3219,7 @@
 	)
 	(symbol
 		(lib_id "CIAA_ACC:LOGO_INTI")
-		(at 74.93 171.45 0)
+		(at 73.66 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3227,7 +3227,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000580956d1")
 		(property "Reference" "G3"
-			(at 74.93 179.1462 0)
+			(at 73.66 179.1462 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3236,7 +3236,7 @@
 			)
 		)
 		(property "Value" "LOGO_INTI"
-			(at 74.93 163.7538 0)
+			(at 73.66 163.7538 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3245,7 +3245,7 @@
 			)
 		)
 		(property "Footprint" "logos:LOGO_INTI"
-			(at 74.93 171.45 0)
+			(at 73.66 171.45 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3254,7 +3254,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 171.45 0)
+			(at 73.66 171.45 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3262,7 +3262,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 74.93 171.45 0)
+			(at 73.66 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
