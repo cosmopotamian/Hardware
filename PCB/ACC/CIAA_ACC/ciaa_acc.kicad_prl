@@ -51,6 +51,7 @@
     "zone_display_mode": 0
   },
   "git": {
+    "integration_disabled": false,
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
@@ -105,26 +106,26 @@
       19
     ],
     "col_widths": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      14
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -140,32 +141,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "ciaa_acc.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -11,
-          "pos_y": -11,
-          "size_x": 3862,
-          "size_y": 2110
-        }
-      },
-      {
-        "name": "ciaa_acc.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -11,
-          "pos_y": -11,
-          "size_x": 3862,
-          "size_y": 2110
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
